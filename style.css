@@ -1,1 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: lavender;
+}
+
+main {
+    width: 1000px;
+    height: 580px;
+    margin: auto;
+}
+
+header {
+    width: 85%;
+    background-color: grey;
+    text-align: center;
+    padding: 70px;
+    
+}
+
+aside{
+    background-color: skyblue;
+    padding:70px;
+    
+}
+
+article {
+    background-color: white;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+p{
+    font-size: 25px;
+}
+
+ol {
+    font-size: 35px;
+}
+h1 {
+    font-size:75px;
+}
+h3 {
+    font-size: 35px;
+}
+#juicecolor {
+    color:white;
+}
 
