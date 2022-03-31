@@ -24,20 +24,31 @@ header {
 aside{
     background-color: skyblue;
     padding:70px;
-    
+    float: left;
 }
 
 article {
+    display: inline-block;
     background-color: white;
+    float: left;
+    padding-bottom: 60px;
 }
 
 img {
     height: 400px;
     width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    text-align: center;
 }
 
 p{
     font-size: 25px;
+    padding: 60px;
 }
 
 ol {
