@@ -24,14 +24,15 @@ header {
 aside{
     background-color: skyblue;
     padding:70px;
+    width: 30%;
     float: left;
 }
 
 article {
-    display: inline-block;
     background-color: white;
     float: left;
     padding-bottom: 60px;
+    width: 70%;
 }
 
 img {
@@ -63,4 +64,6 @@ h3 {
 #juicecolor {
     color:white;
 }
-
+ .container{
+     display: flex;
+ }
